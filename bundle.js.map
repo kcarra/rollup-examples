@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["main.js"],"sourcesContent":["import { version } from './package.json'\n\nexport default function () {\n  console.log('version: ', version);\n}"],"names":[],"mappings":";;AAEe,aAAQ,IAAI;AAC3B,EAAE,OAAO,CAAC,GAAG,CAAC,WAAW,EAAE,OAAO,CAAC,CAAC;AACpC;;;;"}
