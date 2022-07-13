@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kcarra/rollup-examples#readme",
   "devDependencies": {
     "@rollup/plugin-json": "^4.1.0",
-    "rollup": "^2.76.0"
+    "rollup": "^2.76.0",
+    "rollup-plugin-terser": "^7.0.2"
   }
 }
